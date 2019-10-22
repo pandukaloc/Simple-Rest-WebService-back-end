@@ -1,4 +1,4 @@
-# Simeple RESTFULL Webservice app using Core PHP (OOP)
+# Simple RESTFULL Webservice app using Core PHP (OOP)
 
 The project contains a simple RESTFULL Webservice app which is built on PHP
 
